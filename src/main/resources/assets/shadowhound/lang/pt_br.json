@@ -1,0 +1,11 @@
+{
+  "entity.shadowhound.shadow_hound": "Cão Sombrio",
+  "item.shadowhound.shadow_hound_spawn_egg": "Ovo de Geração do Cão Sombrio",
+  "message.shadowhound.vanish.1": "Ele só estava te observando...",
+  "message.shadowhound.vanish.2": "Aquilo não era um cachorro normal.",
+  "message.shadowhound.vanish.3": "Ele sabe onde você dorme.",
+  "message.shadowhound.taken": "%1$s desapareceu durante a noite. Marcas: %2$s/6",
+  "message.shadowhound.final": "Seis marcas. Ele terminou de esperar.",
+  "message.shadowhound.woken": "Algo te acordou no meio da noite...",
+  "message.shadowhound.ritual": "Algo foi construído ao longe. Seis velas estão acesas."
+}

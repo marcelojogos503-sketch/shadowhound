@@ -1,0 +1,11 @@
+{
+  "entity.shadowhound.shadow_hound": "Shadow Hound",
+  "item.shadowhound.shadow_hound_spawn_egg": "Shadow Hound Spawn Egg",
+  "message.shadowhound.vanish.1": "It was just watching you...",
+  "message.shadowhound.vanish.2": "That was not a normal dog.",
+  "message.shadowhound.vanish.3": "It knows where you sleep.",
+  "message.shadowhound.taken": "%1$s vanished during the night. Marks: %2$s/6",
+  "message.shadowhound.final": "Six marks. It is finished waiting.",
+  "message.shadowhound.woken": "Something woke you in the middle of the night...",
+  "message.shadowhound.ritual": "Something was built far away. Six candles are burning."
+}
